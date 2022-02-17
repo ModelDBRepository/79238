@@ -45,6 +45,6 @@ dVt/dt=((Vm - Vt) / (Rs * Ct))
 
 % Numerical and plotting parameters for xpp
 @ meth=Euler, dt=0.01, total=25
-@ yp=v, yhi=50, ylo=-110, xlo=0, xhi=25, bounds=5000
+@ yp=vm, yhi=50, ylo=-110, xlo=0, xhi=25, bounds=5000
 
 done
